@@ -18,6 +18,4 @@ for i in range(1,11):
     
 for i in range(1,10,2):
      print(i)
-     git remote add origin https://github.com/ra11/Phyton.git
-git branch -M main
-git push -u origin main
+   
