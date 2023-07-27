@@ -7,12 +7,12 @@ Created on Thu Jul 27 17:48:06 2023
 
 for i in range(1,16):
     if i % 3 == 0 and i % 5 == 0:
-        print("fizzbuzz")
+        print(i , "fizzbuzz")
         continue
     elif i % 3 == 0:
-        print("fizz")
+        print(i, "fizz")
         continue
     elif i % 5 == 0:
-        print("buzz")
+        print(i, "buzz")
         
 	
